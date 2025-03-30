@@ -1,4 +1,4 @@
-# Build AI WhatsApp Bots with Pure Python
+# Build Gemini WhatsApp Bots
 
 This guide will walk you through the process of creating a WhatsApp bot using the Meta (formerly Facebook) Cloud API with pure Python, and Flask particular. We'll also integrate webhook events to receive messages in real-time and use Gemini to generate AI responses. 
 
